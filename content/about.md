@@ -2,10 +2,7 @@
 template = "page.html"
 +++
 
-## Hello, this is a simple dev blog.
-
-This is a simple dev blog that I made [for my website](https://bennett.dev).
-It's quite easy to install, just go to the [project page](https://github.com/bennetthardwick/simple-dev-blog-zola-starter) and follow the prompts.
+## Hi! Welcome to Kenneth Ge's dev blog
 
 This template does some fancy stuff like [pre-rendering](https://developer.mozilla.org/en-US/docs/Web/HTML/Preloading_content) blog posts and nav links,
 pre-fetching your profile image and adding a bunch of common meta tags.
